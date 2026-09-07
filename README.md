@@ -2,9 +2,20 @@
 
 ## Project Overview
 
+
 This project was developed as a **3rd-year mini project** to explore the use of machine learning for diabetes prediction.
 
 The project uses selected health-related parameters as inputs and applies a trained machine learning model to predict whether a person is likely to be diabetic or not. A **Streamlit web application** was developed to provide an interactive interface for making predictions.
+
+## 🌐 Live Demo
+
+Try the application here:
+
+[**🚀 Launch Diabetes Prediction App**](https://diabetes-prediction-ml-dgn35eaec7fdwedxw74jvp.streamlit.app/)
+
+## 📸 Application Screenshot
+
+![Diabetes Prediction Streamlit App](screenshots/diabetes-prediction-app.png)
 
 ## 🌟 Features
 
