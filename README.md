@@ -15,7 +15,7 @@ Try the application here:
 
 ## 📸 Application Screenshot
 
-![Diabetes Prediction Streamlit App]![Diabetes Prediction Streamlit App](screenshots/diabetes-prediction-app.jpeg)
+![Diabetes Prediction Streamlit App](screenshots/diabetes-prediction-app.png.jpeg)
 
 ## 🌟 Features
 
